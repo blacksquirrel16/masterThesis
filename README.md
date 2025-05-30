@@ -56,3 +56,8 @@ lightfm.ipynb
 
 Implements LightFM model BPR and WARP on the ModCloth dataset
 
+
+## Plots of multiple rounds of recommendations 
+plot_mod.ipynb : for Modcloth
+
+plot_rent.ipynb: for RentTheRunway
